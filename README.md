@@ -1,5 +1,5 @@
 # BSQ
-Find biggest square in map containing "o" and "."
+Find biggest square in map containing "o" and "."<br />
 make to compile <br />
 ./bsq MAP<br />
 Between 0.9s and 1.2s for 10k/10k map
