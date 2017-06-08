@@ -51,7 +51,7 @@ void	modify_map(char *buff, int *map, t_size *size)
 
   max_pos = get_max_pos(map);
   max_value = map[max_pos];
-  j = 0;;
+  j = 0;
   while (j != max_value)
   {
     i = 0;
